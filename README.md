@@ -9,10 +9,10 @@ Binary images are widely used in computer vision and robotics applications due t
 
 
 ## Download model and data
-[EBT](https://google.com).
 <br>
 In our paper, we conduct experiments on three types of data:
 - **HQF** contains synthetic blurry images and real-world events from [HQF](https://timostoff.github.io/20ecnn), where blurry images are generated using the same manner as GoPro.
 - **Reblur** contains real-world blurry images and real-world events from [Reblur](https://github.com/AHupuJR/EFNet).
+- **EBT** is our collected dataset, it contains simulated event sequence using ESIM and real-world test data [EBT](https://google.com).
 
 
