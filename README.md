@@ -17,7 +17,7 @@ In our paper, we conduct experiments on three types of data:
 ## EBT- Event-based Bimodal Target dataset
 Examples of the real sequences of EBT dataset:
 ![Example of real sequence of EBT dataset](./figures/example.png)
-\\
+
 Examples of the synthetic sequences of EBT dataset:
 ![Example of real sequence of EBT dataset](./figures/sim_example.png)
 
