@@ -14,4 +14,10 @@ In our paper, we conduct experiments on three types of data:
 - **Reblur** contains real-world blurry images and real-world events from [Reblur](https://github.com/AHupuJR/EFNet).
 - **EBT** is our collected dataset, it contains simulated event sequence using ESIM and real-world test data [EBT](https://google.com).
 
+## EBT- Event-based Bimodal Target dataset
+Examples of the real sequences of EBT dataset:
 ![Example of real sequence of EBT dataset](./figures/example.png)
+\\
+Examples of the synthetic sequences of EBT dataset:
+![Example of real sequence of EBT dataset](./figures/sim_example.png)
+
