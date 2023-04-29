@@ -1,4 +1,4 @@
-# Event-based High-frame Rates Reconstruction for Binary Videos (Academic Use Only)
+# Neuromorphic Video Binarization (Academic Use Only)
 ## [Paper](https://google.com) | [Video](https://google.com)
 ## This work is currently under reviewing, we will release the code once ready.
 
