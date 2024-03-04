@@ -1,6 +1,6 @@
 # Neuromorphic Synergy for Video Binarization (Academic Use Only)
-## [Paper](https://google.com) | [Video: Youtube](https://youtu.be/fbdvowAHkn0) | [Video: Bilibili](https://www.bilibili.com/video/BV1ws4y1X7Sh/)
-## We are currently managing the code, I will release an Matlab version ASAP
+## [Paper](https://doi.org/10.48550/arXiv.2402.12644) | [Video: Youtube](https://youtu.be/fbdvowAHkn0) | [Video: Bilibili](https://www.bilibili.com/video/BV1ws4y1X7Sh/)
+## We are currently managing the code, I will release a Matlab version ASAP
 
 Bimodal objects, such as the checkerboard pattern used in camera calibration, markers for object tracking, and text on road signs, to name a few, are prevalent in our daily lives
 and serve as a visual form to embed information that can be easily recognized by vision systems.
