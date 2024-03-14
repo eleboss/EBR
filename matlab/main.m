@@ -14,7 +14,6 @@ rgb = true;
 filtering = true;
 median_range = 3; %the range of median filter, should be an odd number
 half_median_range = floor(median_range / 2);
-sim_data = false;
 generation_mode = "time"; % time or event
 generation_frame_rate = 1000;
 per_n_event = 100;
